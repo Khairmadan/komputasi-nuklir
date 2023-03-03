@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-#computation of the function quantum
+#computation of the  wave function quantum
 a = 2 *(0.529 * 10**(-10)) #m
 m = 9.109 * 10**(-31) #kg mass of the electron
 h = 6.626 * 10**(-34) #J.s Planck constant
